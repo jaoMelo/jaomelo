@@ -1,4 +1,4 @@
-# Olá, eu sou João MELO!
+# Olá, eu sou João Melo!
 
 ![Imagem de perfil](link-para-imagem-de-perfil.jpg)
 

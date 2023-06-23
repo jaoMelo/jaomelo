@@ -7,7 +7,6 @@
   
   <p align="center">
     Sou Estudante de Programação e gosto muito de compartilhar meu conhecimento.
-    <a href="" target="_blank">
       <img
            width="10%" 
            align="center" 

@@ -11,5 +11,5 @@ Bem-vindo ao meu perfil do GitHub. Aqui estão algumas informações sobre mim:
 Entre em contato comigo em [meloescola20@.com](mailto:seu-email@example.com).
 
 Conecte-se comigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-seu-usuario-blue)](https://www.linkedin.com/in/jo%C3%A3o-melo-37b9711b8/)
+[![LinkedIn](372102050_LINKEDIN_ICON_400px)](https://www.linkedin.com/in/jo%C3%A3o-melo-37b9711b8/)
 

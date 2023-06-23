@@ -1,16 +1,16 @@
-### Hi there 👋
+# Olá, eu sou João MELO!
 
-<!--
-**jaoMelo/jaomelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Imagem de perfil](link-para-imagem-de-perfil.jpg)
 
-Here are some ideas to get you started:
+Bem-vindo ao meu perfil do GitHub. Aqui estão algumas informações sobre mim:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Desenvolvedor de software
+- 🌍 Apaixonado por tecnologia
+- 📚 Aprendendo algo novo todos os dias
+
+Entre em contato comigo em [meloescola20@.com].
+
+Conecte-se comigo:
+
+[![Twitter](https://img.shields.io/twitter/follow/seu-usuario?style=social)](https://twitter.com/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-seu-usuario-blue)](https://www.linkedin.com/in/seu-usuario/)

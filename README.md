@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil do GitHub. Aqui estão algumas informações sobre mim:
 
 - 💻 Desenvolvedor de software
 - 🌍 Apaixonado por tecnologia
-- 📚 Aprendendo algo novo todos os dias
+- 📚 Estudando Ruby on rails
 
 Entre em contato comigo em [meloescola20@.com].
 

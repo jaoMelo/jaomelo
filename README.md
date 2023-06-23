@@ -7,12 +7,12 @@
   
   <p align="center">
     Sou Estudante de Programação e gosto muito de compartilhar meu conhecimento e aprendizado no meu canal
-    <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
+    <a href="" target="_blank">
       <img
            width="10%" 
            align="center" 
            valign="middle" 
-           src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social" 
+           src="" 
            target="_blank" 
       />
     </a>  

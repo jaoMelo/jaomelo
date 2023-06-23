@@ -12,5 +12,5 @@ Entre em contato comigo em [meloescola20@.com].
 
 Conecte-se comigo:
 
-[![Twitter](https://img.shields.io/twitter/follow/seu-usuario?style=social)](https://twitter.com/seu-usuario)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-seu-usuario-blue)](https://www.linkedin.com/in/seu-usuario/)
+[![Twitter]
+[![LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-melo-37b9711b8/)

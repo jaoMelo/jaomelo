@@ -16,4 +16,4 @@ Aqui estão alguns dos meus projetos mais recentes:
 
 ## Contato
 - E-mail: meloescola20@gmail.com
-- LinkedIn: [Seu perfil no LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-melo-37b9711b8/)
+- LinkedIn: [Meu perfil no LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-melo-37b9711b8/)

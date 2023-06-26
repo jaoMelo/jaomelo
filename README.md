@@ -1,7 +1,7 @@
 # Bem-vindo ao meu perfil do GitHub!
 
 ## Sobre mim
-- Meu nome é [João Melo].
+- Meu nome é João Melo.
 - Sou apaixonado por desenvolvimento de software e tecnologia.
 
 ## Projetos
